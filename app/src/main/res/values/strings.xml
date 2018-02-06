@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Win Capital</string>
+    <string name="red_data_fiz_face">Физ. Лицо</string>
+    <string name="reg_data_ur_face">Юр. Лицо</string>
+</resources>
